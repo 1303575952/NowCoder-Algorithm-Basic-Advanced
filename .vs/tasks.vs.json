@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "任务-ex03_01",
+      "appliesTo": "chapter03/ex03_01.cpp",
+      "type": "launch"
+    }
+  ]
+}
