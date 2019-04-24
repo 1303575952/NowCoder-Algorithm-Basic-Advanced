@@ -1,3 +1,7 @@
 /.idea
 /cmake-build-debug
 /CMakeLists.txt
+/chapter2/.idea
+/chapter2/cmake-build-debug
+/chapter2/CMakeLists.txt
+/chapter2/*.exe
